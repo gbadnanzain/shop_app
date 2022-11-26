@@ -22,7 +22,7 @@ class HomeAppBar extends StatelessWidget {
             child: Text(
               "HDI Shop",
               style: const TextStyle(
-                fontSize: 23,
+                fontSize: 32,
                 fontWeight: FontWeight.bold,
               ),
             ),
